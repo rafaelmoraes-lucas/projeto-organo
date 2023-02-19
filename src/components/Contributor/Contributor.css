@@ -1,0 +1,38 @@
+.contributor {
+    width: 280px;
+}
+
+.contributor .header {
+    background-color:  #F0F0F0;
+    border-radius: 10px 10px 0px 0px;
+}
+.contributor img {
+    width: 100px;
+    border-radius: 50%;
+    position: relative;
+    bottom: -50px;
+}
+
+.contributor .footer {
+    display: block;
+    background: #FFFFFF;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.08);
+    border-radius: 0px 0px 10px 10px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+
+.contributor .footer h4 {
+    color: #6278F7;
+    font-size: 25px;
+    line-height: 22px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.contributor .footer h5 {
+    font-size: 18px;
+    line-height: 22px;
+    color: #212121;
+    padding: 0 16px;
+}
